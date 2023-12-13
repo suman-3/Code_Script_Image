@@ -21,7 +21,7 @@ function Footer() {
         <span className="pl-1 font-medium text-slate-200">Web Mastery</span>
       </Link>
       <Link
-        href="https://github.com/Maclinz/code-to-img"
+        href="https://github.com/suman-3/Code_Script_Image"
         className="flex items-center text-sm font-medium hover:text-slate-200 ease-in-out transition-all duration-500"
       >
         Source Code Here &nbsp;&#129109;
